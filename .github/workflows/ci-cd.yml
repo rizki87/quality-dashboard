@@ -1,5 +1,5 @@
 name: Continuous Integration and Delivery
-"on":
+on:
   push:
     branches: [main]
 
